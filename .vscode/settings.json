@@ -1,0 +1,11 @@
+{
+	"terminal.integrated.env.windows": {
+		"PUPPETEER_PRODUCT": "firefox"
+	},
+	"window.zoomLevel": 1,
+	"editor.detectIndentation": false,
+	"editor.insertSpaces": false,
+	"files.eol": "\n",
+	"deno.enable": true,
+	"deno.suggest.imports.autoDiscover": false
+}

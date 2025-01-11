@@ -1,0 +1,27 @@
+{
+	"tasks": {
+		"dev": "deno run --watch main.ts"
+	},
+	"imports": {
+		"@b-fuze/deno-dom": "jsr:@b-fuze/deno-dom@^0.1.49",
+		"@std/assert": "jsr:@std/assert@1",
+		"@std/cli": "jsr:@std/cli@^1.0.9",
+		"puppeteer": "npm:puppeteer@^23.11.1",
+		"user-agents": "npm:user-agents@^1.1.413"
+	},
+	"nodeModulesDir": "auto",
+	"fmt": {
+		"useTabs": true,
+		"semiColons": true
+	},
+	"compilerOptions": {
+		"lib": [
+			"dom",
+			"dom.iterable",
+			"dom.asynciterable",
+			"esnext",
+			"deno.ns",
+			"deno.unstable"
+		]
+	}
+}
