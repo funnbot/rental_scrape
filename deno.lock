@@ -16,8 +16,8 @@
     "jsr:@std/path@~0.213.1": "0.213.1",
     "npm:puppeteer@*": "23.11.1_devtools-protocol@0.0.1367902",
     "npm:puppeteer@^23.11.1": "23.11.1_devtools-protocol@0.0.1367902",
-    "npm:user-agents@*": "1.1.413",
-    "npm:user-agents@^1.1.413": "1.1.413"
+    "npm:user-agents@*": "1.1.415",
+    "npm:user-agents@^1.1.413": "1.1.415"
   },
   "jsr": {
     "@b-fuze/deno-dom@0.1.49": {
@@ -134,8 +134,8 @@
     "b4a@1.6.7": {
       "integrity": "sha512-OnAYlL5b7LEkALw87fUVafQw5rVR9RjwGd4KUwNQ6DrrNmaVaUCgLipfVlzrPQ4tWOR9P0IXGNOx50jYCCdSJg=="
     },
-    "bare-events@2.5.3": {
-      "integrity": "sha512-pCO3aoRJ0MBiRMu8B7vUga0qL3L7gO1+SW7ku6qlSsMLwuhaawnuvZDyzJY/kyC63Un0XAB0OPUcfF1eTO/V+Q=="
+    "bare-events@2.5.4": {
+      "integrity": "sha512-+gFfDkR8pj4/TrWCGUGWmJIkBwuxPS5F+a5yWjOHQt2hHvNZd5YLzadjmDUtFmMM4y429bnKLa8bYBMHcYdnQA=="
     },
     "bare-fs@2.3.5": {
       "integrity": "sha512-SlE9eTxifPDJrT6YgemQ1WGFleevzwY+XAP1Xqgl56HtcrisC2CHCZ2tq6dBpcH2TnNxwUEUGhweo+lrQtYuiw==",
@@ -573,8 +573,8 @@
     "undici-types@6.19.8": {
       "integrity": "sha512-ve2KP6f/JnbPBFyobGHuerC9g1FYGn/F8n1LWTwNxCEzd6IfqTwUQcNXgEtmmQ6DlRrC1hrSrBnCZPokRrDHjw=="
     },
-    "user-agents@1.1.413": {
-      "integrity": "sha512-TMRHCWZ0XSSpdFEdYHtHiqG7Cm3X9F9rKMZpjeEjWxk/ACQ45JuISpLZClhMOOqgmLwnAst8RBWhacrb0k+hYA==",
+    "user-agents@1.1.415": {
+      "integrity": "sha512-fUMpTSfwSRJrr19iBqivDYeymeB0o+eHZzrUkpqkcA0iumnXDp7h+x66urpfBgtPZTqqsJwJLkf+K9uBDIQ7yg==",
       "dependencies": [
         "lodash.clonedeep"
       ]
